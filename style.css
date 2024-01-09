@@ -145,3 +145,9 @@ button {
 .task_edit-mode .task__label {
   display: none;
 }
+.task__input {
+  display: none;
+}
+.task__input_new {
+  display: inline-block;
+}
